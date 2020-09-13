@@ -30,5 +30,3 @@ api=create_api()
    print(f'Updating Name: SAInath|{follower_count(user)}Followers')
    print('waiting for refresh')
    time.sleep(60)
-
-  
